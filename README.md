@@ -1,6 +1,6 @@
 # Data-Visualisations
 
-Ce dossier contient mes datavisualisations / des liens vers mes datavisualisations. 
+Ce dossier contient mes datavisualisations.  
 
 Février 2021 : 
 
